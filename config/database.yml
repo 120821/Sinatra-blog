@@ -1,0 +1,7 @@
+development:
+ adapter: postgresql
+ database: sinatra-practice-developmenttest:
+ adapter: postgresql
+ database: sinatra-practice-testproduction:
+ adapter: postgresql
+ database: sinatra-practice-production
