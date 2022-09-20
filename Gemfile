@@ -1,5 +1,5 @@
-#source 'https://rubygems.org'
-source 'https://gems.ruby-china.com'
+source 'https://rubygems.org'
+#source 'https://gems.ruby-china.com'
 
 gem "activerecord"
 gem "byebug"
@@ -9,6 +9,7 @@ gem "pg"
 gem "pry"
 gem "rake"
 gem "rspec"
+gem 'sinatra/activerecord/rake'
 
 #gem 'rack'
 #gem 'rake'
